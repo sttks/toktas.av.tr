@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toktas.av.tr/sitemap.xml

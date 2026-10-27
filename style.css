@@ -1,13 +1,13 @@
 /* Toktaş Hukuk Bürosu — site stili
-   Renkler: burgundy (#800020); kâğıt tonu ve nötrler bordoya doğru hafif ısıtılmış. */
+   Renkler: burgundy (#5c1a2a); kâğıt tonu ve nötrler bordoya doğru hafif ısıtılmış. */
 :root {
   --paper: #faf7f4;
   --paper-2: #f1ebe6;
   --ink: #221a1c;
   --ink-2: #5c4f53;
   --line: #ddd1cc;
-  --wine: #800020;
-  --wine-deep: #5a0016;
+  --wine: #5c1a2a;
+  --wine-deep: #3f1119;
   --brass: #a98a5b;
   --max: 1120px;
   --gutter: clamp(16px, 4vw, 40px);

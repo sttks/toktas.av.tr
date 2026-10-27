@@ -102,7 +102,7 @@ def head(title, desc, path, extra=""):
 <meta property="og:description" content="{desc}">
 <meta property="og:url" content="{SITE}/{'' if path=='index.html' else path}">
 <meta property="og:type" content="website">
-<meta name="theme-color" content="#6f1d2b">
+<meta name="theme-color" content="#800020">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

@@ -3,7 +3,7 @@
 import os, shutil, datetime
 
 SITE = "https://toktas.av.tr"
-EMAIL = "msftoktas@gmail.com"          # DOĞRULAYIN — mevcut sitede mstoktas@gmail.com yazıyordu
+EMAIL = "sefa.toktas@toktas.av.tr"          # DOĞRULAYIN — mevcut sitede mstoktas@gmail.com yazıyordu
 TEL1 = "0 224 451 42 62"
 TEL2 = "0 224 451 42 63"
 TEL1_HREF = "+902244514262"
